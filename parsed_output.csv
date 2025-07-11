@@ -1,0 +1,5 @@
+timestamp,level,message
+2024-07-10 12:01:45,ERROR,Failed to connect to database
+2024-07-10 12:01:50,INFO,Retrying connection
+2024-07-10 12:01:55,WARNING,Connection slow
+2024-07-10 12:02:00,ERROR,Connection timeout
